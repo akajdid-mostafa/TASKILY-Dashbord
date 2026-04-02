@@ -1,6 +1,6 @@
 # TASKILY Dashboard
 
-A modern task management dashboard built with Next.js and Tailwind CSS.
+TASKILY dashboard built with JavaScript — practical features for real-world use.
 
 ## Features
 
