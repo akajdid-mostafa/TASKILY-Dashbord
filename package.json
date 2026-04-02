@@ -19,5 +19,6 @@
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "tailwindcss": "^3.3.6"
-  }
+  },
+  "description": "TASKILY dashboard built with JavaScript — practical features for real-world use."
 }
